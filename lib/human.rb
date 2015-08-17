@@ -1,5 +1,9 @@
-require "human/version"
-
 module Human
-  # Your code goes here...
+  class Person
+    attr_accessor :tummy
+
+    def initialize( tummy = 'hungry')
+      @tummy = tummy
+    end
+  end
 end

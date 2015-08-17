@@ -1,11 +1,10 @@
 require 'spec_helper'
 
-describe Human do
-  it 'has a version number' do
-    expect(Human::VERSION).not_to be nil
-  end
-
-  it 'does something useful' do
-    expect(false).to eq(true)
+describe Human::Person do
+  context 'Before breakfast a Person' do
+    it 'should be hungry' do
+      @new_human = Human::Person.new
+      expect(@new_human.tummy).to eq('hungry')
+    end
   end
 end
