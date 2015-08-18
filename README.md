@@ -17,7 +17,7 @@ http://betterspecs.org/
 http://www.rubydoc.info/github/thoughtbot/shoulda-matchers/master/frames
 
 ##Disclaimer
- Intended only for instructional purposes only, not intended as reference or as an illustration of best practices.
+ Intended only for instructional purposes only to demonstrate TDD work flow, not intended as a reference or as an illustration of best practices.
 
 ## Development
 
