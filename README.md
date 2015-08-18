@@ -16,14 +16,14 @@ http://www.rubydoc.info/gems/rspec-core/toplevel
 http://betterspecs.org/
 http://www.rubydoc.info/github/thoughtbot/shoulda-matchers/master/frames
 
- #Disclaimer
- Intended only for instructional purpose only.
+##Disclaimer
+ Intended only for instructional purposes only, not intended as reference or as an illustration of best practices.
 
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake rspec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
-# Comment out the line below on bin/console if you don't want the console to open after running the program.
+##### Comment out the line below on bin/console if you don't want the console to open after running the program.
 IRB.start
 
 ## License
