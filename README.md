@@ -23,6 +23,9 @@ http://www.rubydoc.info/github/thoughtbot/shoulda-matchers/master/frames
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake rspec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
+# Comment out the line below on bin/console if you don't want the console to open after running the program.
+IRB.start
+
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).

@@ -11,4 +11,5 @@ require "human"
 # Pry.start
 
 require "irb"
+# Coment out the line below if you don't want the console to open after running the program.
 IRB.start
