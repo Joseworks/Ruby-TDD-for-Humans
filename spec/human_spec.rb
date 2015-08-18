@@ -38,5 +38,4 @@ describe Human::Person do
     end
   end
 
-
 end
