@@ -10,7 +10,7 @@ Person drinks coffee!
 Person eats breakfast!
   tummy should be full
 
-#Reference
+#References
 http://bundler.io/
 http://www.rubydoc.info/gems/rspec-core/toplevel
 http://betterspecs.org/
